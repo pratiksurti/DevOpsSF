@@ -10,4 +10,8 @@ public with sharing class TriggerBuildAgain {
 		return null;
 	}
     
-}
+    //I hope this works PLEASE
+	public String strName2() {
+		return null;
+	}
+}	
